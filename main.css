@@ -1,0 +1,16 @@
+table {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-collapse: collapse;
+    /*width: 100%;*/
+  }
+  
+  td, th {
+    border: 2px solid #dfdedd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #d4a373;
+  }
+
